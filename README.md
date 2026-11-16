@@ -1,4 +1,4 @@
-<p align="center"> <img src="banner.png" alt="Canteen Ordering System: requirements and process design for a 1,500-person office" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Type-Course%20case%20study-8FA8FF?style=flat-square" alt="Course case study"> <img src="https://img.shields.io/badge/Skill-Requirements-FFC79C?style=flat-square" alt="Requirements"> <img src="https://img.shields.io/badge/Skill-Swimlane%20and%20ER-B9C6FF?style=flat-square" alt="Swimlane and ER"> <img src="https://img.shields.io/badge/Skill-RACI-FFC79C?style=flat-square" alt="RACI"> </p>
+<p align="center"> <img src="banner.png" alt="Canteen Ordering System: requirements and process design for a 1,500-person office" width="100%"> </p> <p align="center"> <img src="https://img.shields.io/badge/Type-Course%20case%20study-8FA8FF?style=flat-square" alt="Course case study"> <img src="https://img.shields.io/badge/Skill-Requirements-FFC79C?style=flat-square" alt="Requirements"> <img src="https://img.shields.io/badge/Skill-Swimlane%20and%20ER-B9C6FF?style=flat-square" alt="Swimlane and ER"> <img src="https://img.shields.io/badge/Skill-RACI-FFC79C?style=flat-square" alt="RACI"> </p> <p align="center"> <a href="https://amosh-canteen-prototype.lovable.app"><b>&#9654;&nbsp; Open the working prototype</b></a> </p>
 
 Course project (Simplilearn CBAP programme, Course-end Project 1). This is a case study. Unilever is used as the case company. It is not a real client project and is not connected to Unilever.
 
@@ -15,12 +15,21 @@ The solution
 
 A web application where employees order lunch before 11:00 am. The order locks at checkout. The canteen manager sees the total demand, the chef prepares the food, and a delivery associate brings it to the employee's desk. At month end, payroll receives the total spend per employee.
 
+Working prototype
+
+I built a working prototype from my own requirements. Each requirement shows its user story, its acceptance criteria and the screen that meets it.
+
+Open the prototype
+
+The prototype uses sample data and was built with an AI app builder. It shows how the requirements turn into screens. It is not a production system.
+
 At a glance
 	
 Stakeholders	6 internal, 7 external, with a RACI matrix across 10 activities
 Objectives	4, each with a target
 Requirements	4 business, 12 functional, 7 non-functional
 Diagrams	Existing process, swimlane, context, activity, ER, 2 wireframes
+Prototype	Working prototype with requirement trail (user story, acceptance criteria, screen)
 Objectives and targets
 #	Objective	Target
 1	Reduce food wastage	From 25% to below 15% within 6 months
